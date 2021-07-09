@@ -1,7 +1,6 @@
 package ro.siit.homework6;
 
 public class CalculatePrice {
-
     private double price;
     private int vat = 19;
 
