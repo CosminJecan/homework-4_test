@@ -8,6 +8,7 @@ public class CalculatePrice {
         return (price + (price * vat / 100));
     }
 
+// constructor
     public CalculatePrice(double pret) {
         this.price = pret;
     }
